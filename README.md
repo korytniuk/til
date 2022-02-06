@@ -23,7 +23,7 @@ _2 TILs and counting..._
 ### PostgreSQL
 
 - [Window functions OVER PARTITION BY](postgresql/count-using-over.md)
-- [SQL orderexecution](postgresql/sql-exectuion-order.md)
+- [SQL order execution](postgresql/sql-execution-order.md)
 
 ### Git
 
