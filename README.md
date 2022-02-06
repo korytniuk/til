@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. 
 
 
-_0 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
@@ -20,15 +20,16 @@ _0 TILs and counting..._
 ---
 
 
+### PostgreSQL
+
+- [Window functions OVER PARTITION BY](postgresql/count-using-over.md)
+- [SQL orderexecution](postgresql/sql-exectuion-order.md)
+
 ### Git
 
 
 ### Python
 
-
-### PostgreSQL
-
-- [How to count occurences using OVER and PARTITION BY](postgresql/count-using-over.md)
 
 ### Peewee
 
@@ -52,7 +53,7 @@ who stole it from
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
-* [jbranchaud/til](https://github.com/jbranchaud/til).
+* [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ## License
 
