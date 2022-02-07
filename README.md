@@ -15,6 +15,7 @@ _2 TILs and counting..._
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Git](#git)
+* [Vim](#vim)
 
 
 ---
@@ -25,13 +26,15 @@ _2 TILs and counting..._
 - [Window functions OVER PARTITION BY](postgresql/count-using-over.md)
 - [SQL order execution](postgresql/sql-execution-order.md)
 
-### Git
-
-
 ### Python
 
+- [Applying timezone to a datetime](python/how-to-apply-timezone-to-date.md)
+
+### Git
 
 ### Peewee
+
+### Vim
 
 
 ## Usage
