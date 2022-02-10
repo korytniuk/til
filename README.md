@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. 
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -31,6 +31,8 @@ _2 TILs and counting..._
 - [Applying timezone to a datetime](python/how-to-apply-timezone-to-date.md)
 
 ### Git
+
+- [How to cherry pick (apply a commit to another branch)](git/how-to-cherry-pick.md)
 
 ### Peewee
 
