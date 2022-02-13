@@ -29,6 +29,7 @@ _3 TILs and counting..._
 ### Python
 
 - [Applying timezone to a datetime](python/how-to-apply-timezone-to-date.md)
+- [Python versions with pyenv, dependency management(pip) and venv](python/envs-workspace.md)
 
 ### Git
 
