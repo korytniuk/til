@@ -25,6 +25,7 @@ _3 TILs and counting..._
 
 - [Window functions OVER PARTITION BY](postgresql/count-using-over.md)
 - [SQL order execution](postgresql/sql-execution-order.md)
+- [SQL filter records using NOT EXISTS](postgresql/sql-not-exists.md)
 
 ### Python
 
