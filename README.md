@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. 
 
 
-_3 TILs and counting..._
+_N TILs and counting..._
 
 ---
 
@@ -15,7 +15,8 @@ _3 TILs and counting..._
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Git](#git)
-* [Vim](#vim)
+* [Nvim](#nvim)
+* [Mac](#mac)
 
 
 ---
@@ -38,14 +39,13 @@ _3 TILs and counting..._
 
 ### Peewee
 
-### Vim
+### Nvim
 
 
-## Usage
+### Mac
 
-The `.vimrc` file for this project contains a function `CountTILs` that can
-be invoked with `<leader>c`. This will do a substitution count of the
-current number of TILs and display the result in the command tray.
+- [Shortcuts](mac/shortcuts.md)
+
 
 ## About
 
